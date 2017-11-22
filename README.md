@@ -1,2 +1,2 @@
 # hello-world
-first application repository
+Hi everyone, ok just me for now.....
